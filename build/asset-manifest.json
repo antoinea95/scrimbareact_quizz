@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrimbareact_quizz/static/css/main.5cbff52a.css",
+    "main.js": "/scrimbareact_quizz/static/js/main.2217bf8a.js",
+    "index.html": "/scrimbareact_quizz/index.html",
+    "static/media/blobs.svg": "/scrimbareact_quizz/static/media/blobs.5a0801127e1ec77c80b57fb7ab867cd6.svg",
+    "static/media/blobs-1.svg": "/scrimbareact_quizz/static/media/blobs-1.24e8bcad6e43342206d175e44da2f427.svg",
+    "main.5cbff52a.css.map": "/scrimbareact_quizz/static/css/main.5cbff52a.css.map",
+    "main.2217bf8a.js.map": "/scrimbareact_quizz/static/js/main.2217bf8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cbff52a.css",
+    "static/js/main.2217bf8a.js"
+  ]
+}
